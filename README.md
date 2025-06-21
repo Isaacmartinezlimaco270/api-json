@@ -33,7 +33,7 @@
       "type": "music",
       "title": "Someone Like You",
       "artist": "Adele",
-      "url": "https://example.com/someone.mp3"
+      "url": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"
     }
   ]
 }
